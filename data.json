@@ -1,0 +1,24 @@
+[{
+    "userName": "exampleUser",
+    "password": "examplePass",
+    "email": "example@gmail.com"
+},
+{
+    "userName": "exampleAdmin",
+    "password": "exampleAdmin",
+    "email": "Admim@gmail.com"
+},
+{
+    "userName": "exampleHR",
+    "password": "exampleHR",
+    "email": "HR@gmail.com"
+},{
+    "userName": "exampleIT",
+    "password": "exampleIT",
+    "email": "IT@gmail.com"
+},
+{
+    "userName": "exampleHRO",
+    "password": "exampleHRO",
+    "email": "HRO@gmail.com"
+}]
